@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalCareSystem.iml" filepath="$PROJECT_DIR$/AnimalCareSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AnimalCareSystemMAVEN.iml" filepath="$PROJECT_DIR$/../AnimalCareSystemMAVEN.iml" />
+    </modules>
+  </component>
+</project>
